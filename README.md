@@ -17,18 +17,7 @@ Independent research and development focused on intelligent systems, experimenta
 > digital environments    interactive 3D · simulation · spatial interfaces
 ```
 
-### 02 / Selected work
-
-| Project | Focus |
-| :--- | :--- |
-| **[PHDL](https://www.phd-l.xyz/)** | Independent R&D initiative exploring AI-powered software and experimental digital products. |
-| **[Dentax](https://github.com/leogrox/DENTAX)** | Dental software ecosystem with clinical workflows and interactive 2D/3D visualization. |
-| **[PHDL GRID](https://github.com/phd-l)** | Design-system and interface architecture work within the PHDL ecosystem. |
-| **[English Pro EVP](https://www.englishproevp.com/)** | Speaking-focused learning platform and digital classroom workflows. |
-
-*Selected projects are ongoing; links and public availability may change.*
-
-### 03 / Tools & technologies
+### 02 / Tools & technologies
 
 <p>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="36" alt="Python" /></a>
